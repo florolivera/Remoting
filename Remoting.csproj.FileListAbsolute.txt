@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\bin\Debug\Remoting.exe.config
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\bin\Debug\Remoting.exe
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\bin\Debug\Remoting.pdb
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\bin\Debug\myRemoteClass.dll
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\bin\Debug\myRemoteClass.pdb
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\obj\Debug\Remoting.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\obj\Debug\Remoting.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\obj\Debug\Remoting.csproj.CopyComplete
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\obj\Debug\Remoting.exe
+C:\Users\User\Downloads\REPOSITORIOS\Remoting\Remoting\obj\Debug\Remoting.pdb
