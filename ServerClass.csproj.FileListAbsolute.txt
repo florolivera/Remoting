@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\REPOSITORIOS\myRemoteClass\myRemoteClass\bin\Debug\myRemoteClass.dll
+C:\Users\User\Downloads\REPOSITORIOS\myRemoteClass\myRemoteClass\bin\Debug\myRemoteClass.pdb
+C:\Users\User\Downloads\REPOSITORIOS\myRemoteClass\myRemoteClass\obj\Debug\ServerClass.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REPOSITORIOS\myRemoteClass\myRemoteClass\obj\Debug\ServerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REPOSITORIOS\myRemoteClass\myRemoteClass\obj\Debug\myRemoteClass.dll
+C:\Users\User\Downloads\REPOSITORIOS\myRemoteClass\myRemoteClass\obj\Debug\myRemoteClass.pdb
